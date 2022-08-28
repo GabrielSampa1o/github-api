@@ -4,9 +4,9 @@ Projeto que consome a API do github, e retorna o perfil, os repositórios do usu
 
 Feito em ReactJS, utilizando o styled-components para estilizar 
 
-
+[Visualizar a aplicação](https://gabrielsampa1o.github.io/github-api/)
 
 ![](src/images/pag1.png)
 ![](src/images/pag2.png)
 
-[Visualizar a aplicação](https://gabrielsampa1o.github.io/github-api/)
+
